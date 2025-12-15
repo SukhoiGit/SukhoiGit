@@ -41,12 +41,12 @@ I‘m a passionate software developer specializing in **Backend Systems** and **
 
 <!-- 奖杯成就 -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=你的用户名&theme=radical&row=2&column=4&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SukhoiGit&theme=radical&row=2&column=4&no-frame=true" alt="GitHub Trophies"/>
 </div>
 
 <!-- 连续贡献图（可选） -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=你的用户名&theme=radical&hide_border=true" alt="连续贡献图"/>
+  <img src="https://streak-stats.demolab.com?user=SukhoiGit&theme=radical&hide_border=true" alt="连续贡献图"/>
 </div>
 
 ---
