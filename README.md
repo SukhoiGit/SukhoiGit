@@ -35,8 +35,8 @@ I‘m a passionate software developer specializing in **Backend Systems** and **
 
 <!-- 动态统计卡片 - 选择你喜欢的样式 -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="你的GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical&hide_border=true" alt="最常用语言"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SukhoiGit&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="你的GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukhoiGit&layout=compact&theme=radical&hide_border=true" alt="最常用语言"/>
 </div>
 
 <!-- 奖杯成就 -->
