@@ -63,10 +63,9 @@ I‘m a passionate software developer specializing in **Backend Systems** and **
 
 ## 📫 How to Reach Me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Blog/Website:** [your-personal-site.com](https://your-personal-site.com) (如果有)
-- **Twitter/WeChat:** (可选)
+- **Email:** [your.email@example.com](originblue062@gmail.com)
+- **Blog/Website:** [your-personal-site.com](https://sukhoigit.github.io/)
+- **Twitter/WeChat:**
 
 ---
 
