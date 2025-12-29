@@ -51,6 +51,13 @@ I‘m a passionate software developer specializing in **Backend Systems** and **
 
 ---
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SukhoiGit&show_icons=true&count_private=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhoiGit&layout=compact)
+
+---
+
 ## 🔥 Recent Projects
 
 | Project | Description | Tech Stack |
