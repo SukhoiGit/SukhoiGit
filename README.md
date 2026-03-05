@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-**SukhoiGit/SukhoiGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 👋 Hi, I‘m Yewen Feng (冯叶文)!
 
 **`Digital Craftsman (Developer/Data Enthusiast/Creator)`**  <!-- 用一句话定义自己 -->
@@ -49,32 +48,23 @@ I‘m a passionate software developer specializing in **Backend Systems** and **
   <img src="https://streak-stats.demolab.com?user=SukhoiGit&theme=radical&hide_border=true" alt="连续贡献图"/>
 </div>
 
----
-
-## 🔥 Recent Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Awesome Data Pipeline](链接)** | A real-time ETL pipeline for processing streaming data. | Python, Apache Kafka, Spark, AWS |
-| **[E-Commerce Microservice](链接)** | A scalable backend system with auth, payment, and order services. | Java, Spring Boot, MySQL, Docker |
-| **[Personal Portfolio](链接)** | My responsive portfolio website with dark mode. | React, Tailwind CSS, Vercel |
 
 ---
 
 ## 📫 How to Reach Me
 
-- **Email:** [your.email@example.com](originblue062@gmail.com)
-- **Blog/Website:** [your-personal-site.com](https://sukhoigit.github.io/)
-- **Twitter/WeChat:**
+- **Email:** [originblue2025@163.com](originblue2025@163.com)
+- **Blog/Website:** [https://sukhoigit.github.io/](https://sukhoigit.github.io/)
 
 ---
 
-## ✨ Fun Facts
+## ✨ What I Love
 
-- 🌱 I‘m currently learning **Go** and **Kubernetes**.
-- 💡 I‘m interested in **Open Source** and **Machine Learning**.
-- 🎵 Outside of coding, I love photography and playing the guitar.
-- 📚 2025 Goal: Contribute to 5 open-source projects.
+- 🔭 I look to the stars as an avid **Astronomy** enthusiast.
+- 🤖 I dive into code, passionate about **AI Agent** and cutting-edge **Internet Technologies**.
+- ✍️ I find peace in the graceful art of **Calligraphy**.
+- 📷 I capture moments and light through the lens of **Photography**.
+- 🎯 **2026 Goals**: Deepen my open-source contributions and complete an astrophotography journey.
 
 <!-- 结尾小动画或名言 -->
 <div align="center">
