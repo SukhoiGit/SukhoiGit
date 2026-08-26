@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I‘m Yewen Feng (冯叶文)!
+# 👋 Hi, I‘m Yewen Feng
 
 **`Digital Craftsman (Developer/Data Enthusiast/Creator)`**  <!-- 用一句话定义自己 -->
 
